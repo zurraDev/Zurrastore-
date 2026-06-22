@@ -1,4 +1,149 @@
-<!-- Encoded Biasa by trio -->
-<script>
-document.write(decodeURIComponent(escape(atob("Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vICBLT05GSUdVUkFTSSBKU09OQklOICDigJMgIEdBTlRJIERFTkdBTiBNSUxJS01VCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpjb25zdCBBUElfS0VZID0gJyQyYSQxMCRyenNUOEpvMThLRVlRZjVObDFNeU11WVBHcEozL2pIWVRqcGFLdFBML21nandvMEpwM2EyUyc7ICAgLy8gZ2FudGkgZGVuZ2FuIG1hc3RlciBrZXkgYXNsaSBkYXJpIGpzb25iaW4uaW8KY29uc3QgQklOX0lEICA9ICc2YTM4ZWVmOWRhMzg4OTVkZmVlYTI0NTQnOyAgICAgICAgICAgICAgIC8vIGdhbnRpIGRlbmdhbiBiaW4gSUQtbXUgKGNvbnRvaDogNmEzOGVlZjlkYTM4ODk1ZGZlZWEyNDU0KQpjb25zdCBCQVNFX1VSTCA9IGBodHRwczovL2FwaS5qc29uYmluLmlvL3YzL2IvJHtCSU5fSUR9YDsKCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyAgREFUQSBERUZBVUxUIChqaWthIGJpbiBrb3NvbmcgYXRhdSBnYWdhbCBmZXRjaCkKLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmNvbnN0IERFRkFVTFRfUFJPRFVDVFMgPSBbCiAgICB7IGlkOiAxLCBuYW1lOiAiS2VsYXMgLyBKYXNhIEJ1ZyBTcGFtbWVyIiwgcHJpY2U6ICJScCA1LjAwMCAvIDE0LjAwMCIsIGltYWdlOiAiIiwgZGVtb1VybDogIiIsIGlzT3BlbjogdHJ1ZSwgYmVuZWZpdHM6IFsiRGlhamFyaW4gdHJpayBidWcgdGFucGEgcGFuZWwiLCAiQW50aS1iYW5uZWQgc2lzdGVtIEN5YmVyIiwgIlRhcmdldCBTcGFtbWVyL1JpcHBlciBCZWJhcyIsICJPcGVuIEphc2EgS29tZXJzaWFsIFNlbmRpcmkiXSB9LAogICAgeyBpZDogMiwgbmFtZTogIldlYiBQYXltZW50IC8gQmlvbGluayIsIHByaWNlOiAiUnAgNS4wMDAgLSAxNS4wMDAiLCBpbWFnZTogIiIsIGRlbW9Vcmw6ICJodHRwczovL25lZnUubGlmZSIsIGlzT3BlbjogdHJ1ZSwgYmVuZWZpdHM6IFsiRGVzaWduIEx1eHVyeSBDb3Jwb3JhdGUiLCAiRnVsbCBSZW5hbWUgJiBDdXN0b20gTG9nbyIsICJTaXN0ZW0gUG9wLXVwIERvd25sb2FkIFFSSVMiLCAiRnJlZSBNYWludGVuYW5jZSAxMCBIYXJpIl0gfQpdOwoKY29uc3QgREVGQVVMVF9QQVJUTkVSUyA9IFsKICAgIHsgbmFtZTogIlNpZmYgU3RvcmUiLCByb2xlOiAiTWFpbiBQYXJ0bmVyICYgRGV2ZWxvcGVyIFN1cHBvcnQiLCBhdmF0YXI6ICJodHRwczovL25lZnUubGlmZS8wX1pvRUguanBnIiwgdGVsZWdyYW06ICJodHRwczovL3QubWUvenVycmFub3RkZWFkIiB9LAogICAgeyBuYW1lOiAiRWthIFN0b3JlIiwgcm9sZTogIlJlc2VsbGVyICYgUGFydG5lciBSZXNtaSIsIGF2YXRhcjogImh0dHBzOi8vbmVmdS5saWZlLzBfWm9FSC5qcGciLCB0ZWxlZ3JhbTogImh0dHBzOi8vdC5tZS9BTExTQU5TNjIiIH0KXTsKCmNvbnN0IERFRkFVTFRfVE9PTFMgPSBbCiAgICB7IG5hbWU6ICJTcGFtbWVyIFRvb2xzIiwgZGVzYzogIktpcmltIHNwYW0gcGVzYW4gaW5zdGFuIHRhbnBhIGRlbGF5IHVudHVrIHBlbmd1amlhbiBzZXJ2ZXIuIiwgdXJsOiAiIyIsIGlzQWN0aXZlOiB0cnVlIH0sCiAgICB7IG5hbWU6ICJMaW5rIENyZWF0b3IiLCBkZXNjOiAiQmlraW4gdGF1dGFuIGt1c3RvbSBwZW5kZWsgc2VjYXJhIG90b21hdGlzLiIsIHVybDogIiMiLCBpc0FjdGl2ZTogdHJ1ZSB9Cl07Cgpjb25zdCBERUZBVUxUX0JJT0xJTktfQ09ORklHID0gewogICAgYmlvOiAiS2FsaWFuIG55YXJpIGdydWIgam9raSBrb250YWsgdGVyYnVrYT8sIHN1bmcgam9pbiBkaWJhd2FoIChDb250b2ggZG9hbmcgYnJlKSBZQU5HIE1BVSBPUkRFUiBXRUJTSVRFTllBIExBTkdTVU5HIiwKICAgIGJnSW1hZ2U6ICIiLCB3aGF0c2FwcDogImh0dHBzOi8vd2EubWUvNjI4NTc4OTg4NDI5MyIsIHRpa3RvazogIiMiLCBpbnN0YWdyYW06ICIjIiwgeW91dHViZTogIiMiLCBlbWFpbDogIm1haWx0bzphZG1pbkB6dXJyYS5zdG9yZSIsCiAgICBwb3B1cFRleHQ6ICJadXJyYSBTdG9yZSBNZWxheWFuaTpcbuKAoiBKYXNwb3N0IEZyZWUgS2UgUE1cbuKAoiBNQy9SZWtiZXIgXG5cbkxpc3QgRmVlIE1DL1Jla2JlcjpcbvCfm4ct8J+bheG0izog8J+bh+G0i1xu8J+bhi3wn5uI8J+bheG0izog8J+biOG0i1xu8J+biPCfm4Yt8J+bhPCfm4XhtIs6IPCfm4XhtItcbvCfm4Twn5uGLfCfm4Dwn5uA4bSLOiDwn5uH4bSLXG7wn5uA8J+bgPCfm4ct8J+biPCfm4Xwn5uA4bSLOiDwn5uH8J+bgOG0i1xu8J+biPCfm4Xwn5uHLfCfm4nwn5uA4bSLOiDwn5uH8J+bheG0i1xu8J+bifCfm4Dwn5uHLfCfm4Twn5uA4bSLOiDwn5uI8J+bgOG0i1xuypnhtJsv4bSb4bSb4p2MXG4uLi7htIXhtIDJtCBz4bSH4bSb4bSHyoDhtJxzybTKj+G0gCEhXG7htJvKgHggypnhtIDhtJvhtIDKnyDSk+G0h+G0hyDhtJvhtIfhtJvhtIfhtJgg4bSL4bSH4bSY4bSP4bSb4bSPybTJoiEiLCBwb3B1cExpbms6ICIiCn07Cgpjb25zdCBERUZBVUxUX0JJT0xJTktfTElOS1MgPSBbCiAgICB7IHRpdGxlOiAiV0FSSk9LIFRFUkJVS0EgWlVSUkEgU1RPUkUiLCBkZXNjOiAiR3J1cCByZXNtaSBpbnRlcmFrc2kgam9raSBvcGVuIGtvbnRhayIsIHR5cGU6ICJ3YS1ncm91cCIsIHVybDogImh0dHBzOi8vdC5tZS9BTExTQU5TNjIiLCBhdmF0YXI6ICJodHRwczovL25lZnUubGlmZS8wX1pvRUguanBnIiB9LAogICAgeyB0aXRsZTogIkNIIElORk9STUFUSU9OIFpVUlJBIiwgZGVzYzogIlNhbHVyYW4gaW5mbyB1cGRhdGUgdG9vbHMgZGFuIHNpc3RlbSIsIHR5cGU6ICJ3YS1jaGFubmVsIiwgdXJsOiAiaHR0cHM6Ly90Lm1lL0FMTFNBTlM2MiIsIGF2YXRhcjogImh0dHBzOi8vbmVmdS5saWZlLzBfWm9FSC5qcGciIH0sCiAgICB7IHRpdGxlOiAiQ0ggVEVTVEkgWlVSUkEgU1RPUkUiLCBkZXNjOiAiS3VtcHVsYW4gcmVhbCB0ZXN0aW1vbnkgcGVtYmVsaSBqYXNhIiwgdHlwZTogInRlbGVncmFtIiwgdXJsOiAiaHR0cHM6Ly90Lm1lL0FMTFNBTlM2MiIsIGF2YXRhcjogImh0dHBzOi8vbmVmdS5saWZlLzBfWm9FSC5qcGciIH0KXTsKCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQovLyAgRlVOR1NJIFVUQU1BCi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpsZXQgY2FjaGVkRGF0YSA9IG51bGw7CgovLyBBbWJpbCBzZW11YSBkYXRhIGRhcmkgSlNPTkJpbgphc3luYyBmdW5jdGlvbiBmZXRjaEFsbERhdGEoKSB7CiAgICB0cnkgewogICAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKEJBU0VfVVJMLCB7CiAgICAgICAgICAgIGhlYWRlcnM6IHsgJ1gtTWFzdGVyLUtleSc6IEFQSV9LRVkgfQogICAgICAgIH0pOwogICAgICAgIGlmICghcmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYEhUVFAgJHtyZXMuc3RhdHVzfWApOwogICAgICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgICAgIGNhY2hlZERhdGEgPSBqc29uLnJlY29yZCB8fCB7fTsKICAgICAgICAvLyBQYXN0aWthbiBzZW11YSBwcm9wZXJ0aSBhZGEKICAgICAgICBpZiAoIWNhY2hlZERhdGEucHJvZHVjdHMpIGNhY2hlZERhdGEucHJvZHVjdHMgPSBERUZBVUxUX1BST0RVQ1RTOwogICAgICAgIGlmICghY2FjaGVkRGF0YS5wYXJ0bmVycykgY2FjaGVkRGF0YS5wYXJ0bmVycyA9IERFRkFVTFRfUEFSVE5FUlM7CiAgICAgICAgaWYgKCFjYWNoZWREYXRhLnRvb2xzKSBjYWNoZWREYXRhLnRvb2xzID0gREVGQVVMVF9UT09MUzsKICAgICAgICBpZiAoIWNhY2hlZERhdGEuYmlvbGlua0NvbmZpZykgY2FjaGVkRGF0YS5iaW9saW5rQ29uZmlnID0gREVGQVVMVF9CSU9MSU5LX0NPTkZJRzsKICAgICAgICBpZiAoIWNhY2hlZERhdGEuYmlvbGlua0xpbmtzKSBjYWNoZWREYXRhLmJpb2xpbmtMaW5rcyA9IERFRkFVTFRfQklPTElOS19MSU5LUzsKICAgICAgICByZXR1cm4gY2FjaGVkRGF0YTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICBjb25zb2xlLmVycm9yKCdmZXRjaEFsbERhdGEgZXJyb3I6JywgZSk7CiAgICAgICAgLy8gZmFsbGJhY2sga2UgZGVmYXVsdAogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHByb2R1Y3RzOiBERUZBVUxUX1BST0RVQ1RTLAogICAgICAgICAgICBwYXJ0bmVyczogREVGQVVMVF9QQVJUTkVSUywKICAgICAgICAgICAgdG9vbHM6IERFRkFVTFRfVE9PTFMsCiAgICAgICAgICAgIGJpb2xpbmtDb25maWc6IERFRkFVTFRfQklPTElOS19DT05GSUcsCiAgICAgICAgICAgIGJpb2xpbmtMaW5rczogREVGQVVMVF9CSU9MSU5LX0xJTktTCiAgICAgICAgfTsKICAgIH0KfQoKLy8gU2ltcGFuIHNlbHVydWggZGF0YSBrZSBKU09OQmluIChvdmVyd3JpdGUpCmFzeW5jIGZ1bmN0aW9uIHNhdmVBbGxEYXRhKGRhdGEpIHsKICAgIHRyeSB7CiAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goQkFTRV9VUkwsIHsKICAgICAgICAgICAgbWV0aG9kOiAnUFVUJywKICAgICAgICAgICAgaGVhZGVyczogewogICAgICAgICAgICAgICAgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICAgICAgICAgICdYLU1hc3Rlci1LZXknOiBBUElfS0VZCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGRhdGEpCiAgICAgICAgfSk7CiAgICAgICAgaWYgKCFyZXMub2spIHRocm93IG5ldyBFcnJvcihgSFRUUCAke3Jlcy5zdGF0dXN9YCk7CiAgICAgICAgY2FjaGVkRGF0YSA9IGRhdGE7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgY29uc29sZS5lcnJvcignc2F2ZUFsbERhdGEgZXJyb3I6JywgZSk7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQp9CgovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KLy8gIEZVTkdTSSBBS1NFUyBQRVIgQkFHSUFOICh1bnR1ayBtZW11ZGFoa2FuKQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KYXN5bmMgZnVuY3Rpb24gZ2V0UHJvZHVjdHMoKSB7CiAgICBpZiAoIWNhY2hlZERhdGEpIGF3YWl0IGZldGNoQWxsRGF0YSgpOwogICAgcmV0dXJuIGNhY2hlZERhdGEucHJvZHVjdHMgfHwgREVGQVVMVF9QUk9EVUNUUzsKfQoKYXN5bmMgZnVuY3Rpb24gZ2V0UGFydG5lcnMoKSB7CiAgICBpZiAoIWNhY2hlZERhdGEpIGF3YWl0IGZldGNoQWxsRGF0YSgpOwogICAgcmV0dXJuIGNhY2hlZERhdGEucGFydG5lcnMgfHwgREVGQVVMVF9QQVJUTkVSUzsKfQoKYXN5bmMgZnVuY3Rpb24gZ2V0VG9vbHMoKSB7CiAgICBpZiAoIWNhY2hlZERhdGEpIGF3YWl0IGZldGNoQWxsRGF0YSgpOwogICAgcmV0dXJuIGNhY2hlZERhdGEudG9vbHMgfHwgREVGQVVMVF9UT09MUzsKfQoKYXN5bmMgZnVuY3Rpb24gZ2V0QmlvbGlua0NvbmZpZygpIHsKICAgIGlmICghY2FjaGVkRGF0YSkgYXdhaXQgZmV0Y2hBbGxEYXRhKCk7CiAgICByZXR1cm4gY2FjaGVkRGF0YS5iaW9saW5rQ29uZmlnIHx8IERFRkFVTFRfQklPTElOS19DT05GSUc7Cn0KCmFzeW5jIGZ1bmN0aW9uIGdldEJpb2xpbmtMaW5rcygpIHsKICAgIGlmICghY2FjaGVkRGF0YSkgYXdhaXQgZmV0Y2hBbGxEYXRhKCk7CiAgICByZXR1cm4gY2FjaGVkRGF0YS5iaW9saW5rTGlua3MgfHwgREVGQVVMVF9CSU9MSU5LX0xJTktTOwp9CgovLyBGdW5nc2kgc2ltcGFuIHBlciBiYWdpYW4gKGFtYmlsIGRhdGEgdGVyYmFydSwgbW9kaWZpa2FzaSwgbGFsdSBzYXZlQWxsKQphc3luYyBmdW5jdGlvbiBzYXZlUHJvZHVjdHMocHJvZHVjdHMpIHsKICAgIGxldCBkYXRhID0gYXdhaXQgZmV0Y2hBbGxEYXRhKCk7CiAgICBkYXRhLnByb2R1Y3RzID0gcHJvZHVjdHM7CiAgICByZXR1cm4gYXdhaXQgc2F2ZUFsbERhdGEoZGF0YSk7Cn0KCmFzeW5jIGZ1bmN0aW9uIHNhdmVQYXJ0bmVycyhwYXJ0bmVycykgewogICAgbGV0IGRhdGEgPSBhd2FpdCBmZXRjaEFsbERhdGEoKTsKICAgIGRhdGEucGFydG5lcnMgPSBwYXJ0bmVyczsKICAgIHJldHVybiBhd2FpdCBzYXZlQWxsRGF0YShkYXRhKTsKfQoKYXN5bmMgZnVuY3Rpb24gc2F2ZVRvb2xzKHRvb2xzKSB7CiAgICBsZXQgZGF0YSA9IGF3YWl0IGZldGNoQWxsRGF0YSgpOwogICAgZGF0YS50b29scyA9IHRvb2xzOwogICAgcmV0dXJuIGF3YWl0IHNhdmVBbGxEYXRhKGRhdGEpOwp9Cgphc3luYyBmdW5jdGlvbiBzYXZlQmlvbGlua0NvbmZpZyhjb25maWcpIHsKICAgIGxldCBkYXRhID0gYXdhaXQgZmV0Y2hBbGxEYXRhKCk7CiAgICBkYXRhLmJpb2xpbmtDb25maWcgPSBjb25maWc7CiAgICByZXR1cm4gYXdhaXQgc2F2ZUFsbERhdGEoZGF0YSk7Cn0KCmFzeW5jIGZ1bmN0aW9uIHNhdmVCaW9saW5rTGlua3MobGlua3MpIHsKICAgIGxldCBkYXRhID0gYXdhaXQgZmV0Y2hBbGxEYXRhKCk7CiAgICBkYXRhLmJpb2xpbmtMaW5rcyA9IGxpbmtzOwogICAgcmV0dXJuIGF3YWl0IHNhdmVBbGxEYXRhKGRhdGEpOwp9"))));
-</script>
+// ============================================================
+//  KONFIGURASI JSONBIN  –  GANTI DENGAN MILIKMU
+// ============================================================
+const API_KEY = '$2a$10$rzsT8Jo18KEYQf5Nl1MyMuYPGpJ3/jHYTjpaKtPL/mgjwo0Jp3a2S';   // ganti dengan master key asli dari jsonbin.io
+const BIN_ID  = '6a38eef9da38895dfeea2454';               // ganti dengan bin ID-mu (contoh: 6a38eef9da38895dfeea2454)
+const BASE_URL = `https://api.jsonbin.io/v3/b/${BIN_ID}`;
+
+// ============================================================
+//  DATA DEFAULT (jika bin kosong atau gagal fetch)
+// ============================================================
+const DEFAULT_PRODUCTS = [
+    { id: 1, name: "Kelas / Jasa Bug Spammer", price: "Rp 5.000 / 14.000", image: "", demoUrl: "", isOpen: true, benefits: ["Diajarin trik bug tanpa panel", "Anti-banned sistem Cyber", "Target Spammer/Ripper Bebas", "Open Jasa Komersial Sendiri"] },
+    { id: 2, name: "Web Payment / Biolink", price: "Rp 5.000 - 15.000", image: "", demoUrl: "https://nefu.life", isOpen: true, benefits: ["Design Luxury Corporate", "Full Rename & Custom Logo", "Sistem Pop-up Download QRIS", "Free Maintenance 10 Hari"] }
+];
+
+const DEFAULT_PARTNERS = [
+    { name: "Siff Store", role: "Main Partner & Developer Support", avatar: "https://nefu.life/0_ZoEH.jpg", telegram: "https://t.me/zurranotdead" },
+    { name: "Eka Store", role: "Reseller & Partner Resmi", avatar: "https://nefu.life/0_ZoEH.jpg", telegram: "https://t.me/ALLSANS62" }
+];
+
+const DEFAULT_TOOLS = [
+    { name: "Spammer Tools", desc: "Kirim spam pesan instan tanpa delay untuk pengujian server.", url: "#", isActive: true },
+    { name: "Link Creator", desc: "Bikin tautan kustom pendek secara otomatis.", url: "#", isActive: true }
+];
+
+const DEFAULT_BIOLINK_CONFIG = {
+    bio: "Kalian nyari grub joki kontak terbuka?, sung join dibawah (Contoh doang bre) YANG MAU ORDER WEBSITENYA LANGSUNG",
+    bgImage: "", whatsapp: "https://wa.me/6285789884293", tiktok: "#", instagram: "#", youtube: "#", email: "mailto:admin@zurra.store",
+    popupText: "Zurra Store Melayani:\n• Jaspost Free Ke PM\n• MC/Rekber \n\nList Fee MC/Rekber:\n🛇-🛅ᴋ: 🛇ᴋ\n🛆-🛈🛅ᴋ: 🛈ᴋ\n🛈🛆-🛄🛅ᴋ: 🛅ᴋ\n🛄🛆-🛀🛀ᴋ: 🛇ᴋ\n🛀🛀🛇-🛈🛅🛀ᴋ: 🛇🛀ᴋ\n🛈🛅🛇-🛉🛀ᴋ: 🛇🛅ᴋ\n🛉🛀🛇-🛄🛀ᴋ: 🛈🛀ᴋ\nʙᴛ/ᴛᴛ❌\n...ᴅᴀɴ sᴇᴛᴇʀᴜsɴʏᴀ!!\nᴛʀx ʙᴀᴛᴀʟ ғᴇᴇ ᴛᴇᴛᴇᴘ ᴋᴇᴘᴏᴛᴏɴɢ!", popupLink: ""
+};
+
+const DEFAULT_BIOLINK_LINKS = [
+    { title: "WARJOK TERBUKA ZURRA STORE", desc: "Grup resmi interaksi joki open kontak", type: "wa-group", url: "https://t.me/ALLSANS62", avatar: "https://nefu.life/0_ZoEH.jpg" },
+    { title: "CH INFORMATION ZURRA", desc: "Saluran info update tools dan sistem", type: "wa-channel", url: "https://t.me/ALLSANS62", avatar: "https://nefu.life/0_ZoEH.jpg" },
+    { title: "CH TESTI ZURRA STORE", desc: "Kumpulan real testimony pembeli jasa", type: "telegram", url: "https://t.me/ALLSANS62", avatar: "https://nefu.life/0_ZoEH.jpg" }
+];
+
+// ============================================================
+//  FUNGSI UTAMA
+// ============================================================
+let cachedData = null;
+
+// Ambil semua data dari JSONBin
+async function fetchAllData() {
+    try {
+        const res = await fetch(BASE_URL, {
+            headers: { 'X-Master-Key': API_KEY }
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        cachedData = json.record || {};
+        // Pastikan semua properti ada
+        if (!cachedData.products) cachedData.products = DEFAULT_PRODUCTS;
+        if (!cachedData.partners) cachedData.partners = DEFAULT_PARTNERS;
+        if (!cachedData.tools) cachedData.tools = DEFAULT_TOOLS;
+        if (!cachedData.biolinkConfig) cachedData.biolinkConfig = DEFAULT_BIOLINK_CONFIG;
+        if (!cachedData.biolinkLinks) cachedData.biolinkLinks = DEFAULT_BIOLINK_LINKS;
+        return cachedData;
+    } catch (e) {
+        console.error('fetchAllData error:', e);
+        // fallback ke default
+        return {
+            products: DEFAULT_PRODUCTS,
+            partners: DEFAULT_PARTNERS,
+            tools: DEFAULT_TOOLS,
+            biolinkConfig: DEFAULT_BIOLINK_CONFIG,
+            biolinkLinks: DEFAULT_BIOLINK_LINKS
+        };
+    }
+}
+
+// Simpan seluruh data ke JSONBin (overwrite)
+async function saveAllData(data) {
+    try {
+        const res = await fetch(BASE_URL, {
+            method: 'PUT',
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Master-Key': API_KEY
+            },
+            body: JSON.stringify(data)
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        cachedData = data;
+        return true;
+    } catch (e) {
+        console.error('saveAllData error:', e);
+        return false;
+    }
+}
+
+// ============================================================
+//  FUNGSI AKSES PER BAGIAN (untuk memudahkan)
+// ============================================================
+async function getProducts() {
+    if (!cachedData) await fetchAllData();
+    return cachedData.products || DEFAULT_PRODUCTS;
+}
+
+async function getPartners() {
+    if (!cachedData) await fetchAllData();
+    return cachedData.partners || DEFAULT_PARTNERS;
+}
+
+async function getTools() {
+    if (!cachedData) await fetchAllData();
+    return cachedData.tools || DEFAULT_TOOLS;
+}
+
+async function getBiolinkConfig() {
+    if (!cachedData) await fetchAllData();
+    return cachedData.biolinkConfig || DEFAULT_BIOLINK_CONFIG;
+}
+
+async function getBiolinkLinks() {
+    if (!cachedData) await fetchAllData();
+    return cachedData.biolinkLinks || DEFAULT_BIOLINK_LINKS;
+}
+
+// Fungsi simpan per bagian (ambil data terbaru, modifikasi, lalu saveAll)
+async function saveProducts(products) {
+    let data = await fetchAllData();
+    data.products = products;
+    return await saveAllData(data);
+}
+
+async function savePartners(partners) {
+    let data = await fetchAllData();
+    data.partners = partners;
+    return await saveAllData(data);
+}
+
+async function saveTools(tools) {
+    let data = await fetchAllData();
+    data.tools = tools;
+    return await saveAllData(data);
+}
+
+async function saveBiolinkConfig(config) {
+    let data = await fetchAllData();
+    data.biolinkConfig = config;
+    return await saveAllData(data);
+}
+
+async function saveBiolinkLinks(links) {
+    let data = await fetchAllData();
+    data.biolinkLinks = links;
+    return await saveAllData(data);
+}
