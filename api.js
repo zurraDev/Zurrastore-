@@ -1,5 +1,5 @@
 // ============================================================
-//  KONFIGURASI FIREBASE (dari console-mu, dengan URL yang benar)
+//  KONFIGURASI FIREBASE
 // ============================================================
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-app.js";
 import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/firebasejs/12.15.0/firebase-database.js";
@@ -7,7 +7,7 @@ import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/fireb
 const firebaseConfig = {
     apiKey: "AIzaSyCvkTdNqm_oqC9HW3wO716stVJdUGJbJIo",
     authDomain: "website-gw.firebaseapp.com",
-    databaseURL: "https://website-gw-default-rtdb.asia-southeast1.firebasedatabase.app", // <-- PERBAIKAN DI SINI
+    databaseURL: "https://website-gw-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "website-gw",
     storageBucket: "website-gw.firebasestorage.app",
     messagingSenderId: "205735340945",
@@ -39,7 +39,8 @@ export const DEFAULT_TOOLS = [
 export const DEFAULT_BIOLINK_CONFIG = {
     bio: "Kalian nyari grub joki kontak terbuka?, sung join dibawah (Contoh doang bre) YANG MAU ORDER WEBSITENYA LANGSUNG",
     bgImage: "", whatsapp: "https://wa.me/6285789884293", tiktok: "#", instagram: "#", youtube: "#", email: "mailto:admin@zurra.store",
-    popupText: "Zurra Store Melayani:\n• Jaspost Free Ke PM\n• MC/Rekber \n\nList Fee MC/Rekber:\n🛇-🛅ᴋ: 🛇ᴋ\n🛆-🛈🛅ᴋ: 🛈ᴋ\n🛈🛆-🛄🛅ᴋ: 🛅ᴋ\n🛄🛆-🛀🛀ᴋ: 🛇ᴋ\n🛀🛀🛇-🛈🛅🛀ᴋ: 🛇🛀ᴋ\n🛈🛅🛇-🛉🛀ᴋ: 🛇🛅ᴋ\n🛉🛀🛇-🛄🛀ᴋ: 🛈🛀ᴋ\nʙᴛ/ᴛᴛ❌\n...ᴅᴀɴ sᴇᴛᴇʀᴜsɴʏᴀ!!\nᴛʀx ʙᴀᴛᴀʟ ғᴇᴇ ᴛᴇᴛᴇᴘ ᴋᴇᴘᴏᴛᴏɴɢ!", popupLink: ""
+    popupText: "Zurra Store Melayani:\n• Jaspost Free Ke PM\n• MC/Rekber \n\nList Fee MC/Rekber:\n1-10k: 1k\n10-50k: 5k\n50-100k: 10k\n100-500k: 25k\n500-1jt: 50k\n1jt-5jt: 100k\n5jt-10jt: 250k\n10jt-50jt: 500k\nBT/TT❌\n...dan seterusnya!!\nTRX BATAL FEE TETAP KEPOTONG!",
+    popupLink: ""
 };
 
 export const DEFAULT_BIOLINK_LINKS = [
@@ -60,7 +61,6 @@ export async function fetchAllData() {
         if (snapshot.exists()) {
             cachedData = snapshot.val();
             console.log('✅ Data fetched successfully');
-            // Pastikan semua properti ada, isi dengan default jika kosong
             if (!cachedData.products) cachedData.products = DEFAULT_PRODUCTS;
             if (!cachedData.partners) cachedData.partners = DEFAULT_PARTNERS;
             if (!cachedData.tools) cachedData.tools = DEFAULT_TOOLS;
@@ -82,7 +82,6 @@ export async function fetchAllData() {
         }
     } catch (e) {
         console.error('❌ fetchAllData error:', e);
-        // Selalu kembalikan default agar website tetap jalan
         return {
             products: DEFAULT_PRODUCTS,
             partners: DEFAULT_PARTNERS,
